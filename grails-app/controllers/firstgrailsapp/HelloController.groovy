@@ -5,4 +5,6 @@ class HelloController {
     def index() {
         render "Hello world"
     }
+
+    def test(){}
 }
